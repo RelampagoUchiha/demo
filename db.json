@@ -1,12 +1,38 @@
+
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "poder":"TSE",
+      "data": "21/10/2022 17h53 - Atualizado em 21/10/2022 20h04",
+      "fonte": "Estadão",
+      "title": "Imprensa internacional repercute decisões do TSE contra a liberdade de expressão",
+      "description": "As recentes decisões do Tribunal Superior Eleitoral (TSE), a que ampliou o poder da Corte para excluir conteúdos considerados falsos das redes sociais nas eleições e a que impôs censura à Jovem Pan, foram alvos de críticas da imprensa internacional nesta sexta-feira, 21",
+      "referencia": "https://jovempan.com.br/noticias/mundo/imprensa-internacional-repercute-decisoes-do-tse-contra-a-liberdade-de-expressao.html",
+      "by": "Relampago Uchiha"
+    },
+    {
+      "id": 2,
+      "poder":"TSE",
+      "data": "21/10/2022 at 18h09",
+      "fonte": "Jovem Pan",
+      "title": "Caso Jovem Pan: em julgamento de ações do PT, TSE impõe censura; Corte mandou investigar rádio",
+      "description": "Decisões do Tribunal Superior Eleitoral (TSE) que impuseram à rádio Jovem Pan a concessão de direitos de resposta ao ex-presidente, (PT) e a “abstenção” de se manifestar sobre temas cuja abordagem foi classificada como “ofensiva” pela defesa do petista reforçaram o debate sobre a atuação e critérios adotados pela Corte no combate à desinformação.",
+      "referencia": "https://www.estadao.com.br/politica/caso-jovem-pan-em-julgamento-de-acoes-do-pt-tse-impoe-censura-corte-mandou-investigar-radio/",
+      "by": "Relampago Uchiha"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
